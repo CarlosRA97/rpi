@@ -1,8 +1,8 @@
 package main
 
 import (
-	. "github.com/hugozhu/rpi"
-	"github.com/hugozhu/rpi/pcd8544"
+	. "github.com/CarlosRA97/rpi"
+	"github.com/CarlosRA97/rpi/pcd8544"
 	"log"
 	"os/exec"
 	"time"
